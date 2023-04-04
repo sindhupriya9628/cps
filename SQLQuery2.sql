@@ -9,3 +9,4 @@ identifier3 - CourseId
 select * from StudentMaster
 
 select * from tago
+ select * from new project
